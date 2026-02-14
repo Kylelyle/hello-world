@@ -2,7 +2,7 @@
 
 int main() 
 {
-  printf("Hello, World!");
+  printf("Hello, Grader!");
   return 0;
 }
 // Does this thing work?
